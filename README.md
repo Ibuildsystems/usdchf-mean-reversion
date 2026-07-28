@@ -76,9 +76,9 @@ The objective throughout development was to maximize robustness while minimizing
 
 ---
 
-## Equity Curve
+![Equity Curve](Screenshot%202026-07-28%20150205.png)
 
-![Equity Curve](equity_curve.png)
+
 
 The historical equity curve demonstrates consistent long-term growth while maintaining relatively shallow drawdowns throughout the testing period.
 
@@ -86,7 +86,7 @@ The historical equity curve demonstrates consistent long-term growth while maint
 
 ## Backtest Statistics
 
-![Backtest Statistics](performance_summary.png)
+![Backtest Statistics](Screenshot%202026-07-28%20150148.png)
 
 ---
 
